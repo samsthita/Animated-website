@@ -1,2 +1,2 @@
 # Animated-website
-The repository has been established to develop an animated digital invitation website for an "OpenAI" event. This platform is designed to serve as an interactive invitation for sharing the OpenAI function with others in a digital format.
+This repo's is created for crafting an animated digital invite site for an "OpenAI" event, serving as an interactive invitation to share the OpenAI function digitally.
